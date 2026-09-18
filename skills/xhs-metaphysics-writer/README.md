@@ -1,8 +1,9 @@
 # xhs-metaphysics-writer
 
 - 默认安装目录：Codex 用户 Skill 目录下的 `xhs-metaphysics-writer/`
-- 当前版本：V0-DBS
+- 当前版本：V0
 - 用途：把一个玄学选题转成标题、结构与可直接修改发布的小红书图文正文。
+- DBS 任务编排入口：`fishlives0u0/dbskill/skills/dbs/SKILL.md`。
 
 ## 调用
 
@@ -27,12 +28,11 @@
 - 基于上一版修改：粘贴上一版后说 `保留核心观点，换结构、换开头、换共鸣场景，避免重复。`
 - 只要成稿：`只给推荐标题和正文。`
 
-## DBS 工程资料
+## 工程资料
 
 - `references/problem-contract.md`：反复问题、完成证据和近邻边界。
 - `references/behavior-contract.md`：必须行为、禁止行为和关键失败。
 - `references/mechanism-selection.md`：判断动作、机制、中间结果和失效边界。
-- `DBS-V0-CALIBRATION.md`：本轮校准修改与验证记录。
 - `evals/evals.json`：正常、边界、反例、留出与回归样本。
 
 ## V1 更新方向
