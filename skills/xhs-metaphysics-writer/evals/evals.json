@@ -1,6 +1,6 @@
 {
   "skill": "xhs-metaphysics-writer",
-  "candidate": "V0-DBS",
+  "candidate": "V0",
   "behavior_contract": {
     "must": [
       "判断唯一主主题和核心用户问题",
