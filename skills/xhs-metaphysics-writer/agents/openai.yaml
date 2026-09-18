@@ -1,0 +1,6 @@
+interface:
+  display_name: "xhs-metaphysics-writer"
+  short_description: "把玄学选题快速写成可直接修改发布的小红书图文完整成稿"
+  default_prompt: "Use $xhs-metaphysics-writer to turn this topic into a publishable Xiaohongshu metaphysics post."
+policy:
+  allow_implicit_invocation: true
